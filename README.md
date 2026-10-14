@@ -16,8 +16,4 @@ A little dog that lives on your desktop, made with Godot.
 - Godot Engine
 - GDScript
 
-## Running the project
-
-1. Clone this repository.
-2. Open Godot and import the project.
-3. Run the project using F6 or F5.
+Access the Desktop Pet here: <a href="https://nyvrixista.itch.io/desktop-dog">Click Me</a>
